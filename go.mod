@@ -34,7 +34,7 @@ require (
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0
-	github.com/hashicorp/go-hclog v1.2.1
+	github.com/hashicorp/go-hclog v1.3.1
 	github.com/hashicorp/go-plugin v1.4.4
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/jedib0t/go-pretty v4.3.0+incompatible
